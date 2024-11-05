@@ -1,8 +1,4 @@
 body {
-    background-image: url('qrcode.png');
-    background-size: cover;
-    background-attachment: fixed;
-    filter: brightness(20%);
     color: white;
     font-family: Arial, sans-serif;
     margin: 0;
