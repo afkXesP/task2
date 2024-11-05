@@ -1,0 +1,18 @@
+body {
+    background-image: url('qrcode.png');
+    background-size: cover;
+    background-attachment: fixed;
+    filter: brightness(20%);
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
